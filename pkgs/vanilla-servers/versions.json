@@ -5402,7 +5402,7 @@
     "version": "1.21.9-pre4",
     "javaVersion": 21,
     "manifestUrl": "https://piston-meta.mojang.com/v1/packages/5726671aced7dceedeaf8731fdd4ad48f7f4c9e5/1.21.9-pre4.json"
-  }
+  },
   "1.21.9": {
     "url": "https://piston-data.mojang.com/v1/objects/11e54c2081420a4d49db3007e66c80a22579ff2a/server.jar",
     "sha1": "11e54c2081420a4d49db3007e66c80a22579ff2a",
